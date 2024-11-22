@@ -1,5 +1,5 @@
 
-React Native Menu Management App
+# React Native Menu Management App
 
 This is a React Native application designed to help manage a chef's menu. The app includes features for viewing, filtering, and adding menu items with dynamic price adjustments based on the course type.
 
