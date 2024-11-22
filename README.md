@@ -6,7 +6,7 @@ This is a React Native application designed to help manage a chef's menu. The ap
 
 
 
-Features
+## Features
 
 1. View Menu: Displays a list of all menu items with details like name, description, price, and course.
 
@@ -22,7 +22,7 @@ Features
 
 
 
-Installation
+## Installation
 
 1. Prerequisites
 
@@ -63,7 +63,7 @@ npx pod-install
 
 
 
-Usage
+## Usage
 
 1. Start the Development Server
 
@@ -102,7 +102,7 @@ Price adjustments are applied dynamically based on the course type.
 
 
 
-Code Overview
+## Code Overview
 
 Key Components
 
@@ -129,7 +129,7 @@ Implements React Navigation for seamless screen transitions.
 
 
 
-Directory Structure
+## Directory Structure
 
 react-native-menu-management/
 ├── components/        # Reusable components
@@ -140,7 +140,7 @@ react-native-menu-management/
 
 
 
-Dependencies
+## Dependencies
 
 React Native Core: react, react-native
 
@@ -151,7 +151,7 @@ Picker: @react-native-picker/picker
 
 
 
-Contributing
+## Contributing
 
 1. Fork the repository.
 
